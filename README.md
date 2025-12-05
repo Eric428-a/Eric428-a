@@ -55,12 +55,3 @@ Jupyter Notebook | Structural data analysis | Predictive modeling
 - Obsessed with **visualizations & data storytelling**.
 
 ---
-
-## 💡 Extra Slide-Like Effects
-You can simulate “slides” by stacking **animated GIFs** as banners at the top.  
-You can add **more project cards with images** like above, each separated with `---`.  
-You can also add **shields.io badges** for achievements, certifications, or fun stats.
-
----
-
-> This README will give your profile a **dynamic, highly visual presentation feel**, almost like a live slide deck when people visit.
