@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Eric428-a
-- 👀 I’m interested in leveraging data to solve real-world problems and uncover hidden patterns.
-- 🌱 I’m currently learning and exploring new techniques in data science and machine learning.
-- 💞️ I’m looking to collaborate on interesting data projects and contributing to the data science community.
-- 📫 How to reach me: ericmwaniki2004@gmail.com
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I believe in the power of data to transform the way we understand the world!
+# Hi, I’m Eric Mwaniki 👋
+**Leading content initiatives in Machine Learning as CCO at Igniteus**  
 
-<!---
-Eric428-a/Eric428-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Animated Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+## 🧰 Tech Stack
+Python | Machine Learning | AI Deployment | HTML | Jupyter | FastAPI
+
+## 🚀 Projects
+- **Learning Management System** – Jupyter, Python  
+- **DS-ML-Deploying** – HTML & AI Models  
+- **Machine Learning in Civil Engineering** – Jupyter Notebook  
+
+## 📫 Contact Me
+[LinkedIn](https://www.linkedin.com/in/eric-m-1325902b2) | [Portfolio](https://eric.m.m.github.com) | [Email](mailto:ericmwaniki2004@gmail.com)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=eric)
