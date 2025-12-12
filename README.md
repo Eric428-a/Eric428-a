@@ -81,12 +81,16 @@
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eric428-a&theme=tokyonight" height="170" />
-</p>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eric428-a&theme=tokyonight&hide_border=true&stroke=FF00E5&ring=00E5FF&fire=FF6B00" width="600" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eric428-a&show_icons=true&theme=tokyonight&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric428-a&layout=compact&theme=tokyonight" height="170" />
+  <br><br>
+
+  <!-- GitHub Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Eric428-a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="450" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric428-a&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="450" />
 </p>
 
 ---
