@@ -1,7 +1,5 @@
 <!-- ========================================================= -->
-
 <!--                    MAIN TITLE SLIDE                       -->
-
 <!-- ========================================================= -->
 
 <h1 align="center">✨ HI, I'M ERIC MWANIKI 👋</h1>
@@ -17,113 +15,67 @@
 ---
 
 <!-- ========================================================= -->
-
-<!--                       ABOUT ME SLIDE                      -->
-
+<!--                       ABOUT ME SLIDES                     -->
 <!-- ========================================================= -->
 
 <h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=00E5FF&lines=Building+Intelligent+Systems;Designing+Realtime+AI+Agents;Scaling+AI+Products+Into+Production" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&color=00E5FF&lines=I+am+Eric+Mwaniki;ML+Engineer+%7C+Full-Stack+Dev+%7C+AI+Agent+Engineer" />
 </p>
 
-I’m **Eric Mwaniki**, a Machine Learning Engineer, Full-Stack Developer, and AI Agent Engineer passionate about building **intelligent, scalable, real‑world AI systems**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&color=00E5FF&lines=Passionate+about+Intelligent+AI+Systems;Building+Realtime+Voice+Agents;Scaling+ML+into+Production" />
+</p>
 
-I specialize in:
-
-* ⚡ **Real-time AI Voice Infrastructure** (WebRTC, Azure Realtime, FastAPI)
-* 🤖 **AI Agents** for automation & customer operations
-* 🧠 **ML/DL pipelines**, GANs, anomaly detection, forecasting
-* 🏗 **Full‑stack engineering** (FastAPI + React)
-* 🚀 **High-performance backend systems & automation tooling**
-
-I build **clean, fast, production-grade systems** that ship.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&color=00E5FF&lines=⚡+Real-time+AI+Voice+Infrastructure;🤖+AI+Agents+Automation;🧠+ML/DL+Pipelines;🏗+Full-Stack+Engineering;🚀+High-Performance+Backend" />
+</p>
 
 ---
 
 <!-- ========================================================= -->
-
-<!--                       TECH STACK SLIDE                    -->
-
+<!--                       TECH STACK SLIDES                  -->
 <!-- ========================================================= -->
 
 <h2 align="center">🧰 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=F5A623&lines=Python+%7C+JavaScript+%7C+TypeScript;FastAPI+%7C+Node.js+%7C+PostgreSQL;React+%7C+Vite;PyTorch+%7C+TensorFlow+%7C+GANs" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&color=F5A623&lines=Python+🐍;TypeScript+%2F+JavaScript;FastAPI+%7C+Node.js;Docker+%7C+PostgreSQL+%2F+MongoDB;WebRTC;React+%7C+Vite;PyTorch+%7C+TensorFlow;Scikit-Learn;GANs+%C2%B7+NLP+%C2%B7+Agents+%C2%B7+Forecasting" />
 </p>
-
-### **Languages**
-
-* Python 🐍
-* TypeScript / JavaScript ⚡
-
-### **Backend & Infrastructure**
-
-* FastAPI
-* Node.js
-* Docker
-* PostgreSQL / MongoDB
-* WebRTC
-
-### **Frontend**
-
-* React
-* Vite
-
-### **ML / AI**
-
-* PyTorch
-* TensorFlow
-* Scikit-Learn
-* GANs · NLP · Agents · Forecasting
 
 ---
 
 <!-- ========================================================= -->
-
 <!--                    FEATURED PROJECT SLIDES                -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=FF5A00&lines=AI+Voice+Agent+Infrastructure;Enterprise-grade+Voice+AI+with+FastAPI+%26+WebRTC" />
+</p>
 
-### 🧠 **AI Voice Agent Infrastructure**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=FF5A00&lines=AI-Powered+Learning+Management+System;Content+Generation+%26+Recommendation" />
+</p>
 
-Enterprise-grade AI voice system using **FastAPI, WebRTC, Azure Realtime**, and dynamic agent orchestration.
+**Repos:**  
+- [PYNYB UPLOADS](https://github.com/Eric428-a/Learning-Management-System-files-via-upload-)  
+- [DEPLOYED WEB SERVICE](https://github.com/Eric428-a/Learning-Management-System-Model-Deployment)
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=FF5A00&lines=GAN-Based+Fraud+Detection;MLflow+%26+Anomaly+Detection" />
+</p>
 
-### 📚 **AI-Powered Learning Management System**
-
-AI‑enhanced LMS with content generation & recommendation.
-
-**Repos:**
-
-* [https://github.com/Eric428-a/Learning-Management-System-files-via-upload-](https://github.com/Eric428-a/Learning-Management-System-files-via-upload-)
-* [https://github.com/Eric428-a/Learning-Management-System-Model-Deployment](https://github.com/Eric428-a/Learning-Management-System-Model-Deployment)
-
----
-
-### 🔍 **GAN-Based Fraud Detection System**
-
-GANs + MLflow for anomaly detection and financial fraud scoring.
-
----
-
-### 🏗 **Machine Learning in Civil Engineering**
-
-Structural prediction & geospatial modeling.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=FF5A00&lines=Machine+Learning+in+Civil+Engineering;Structural+Prediction+%26+Geospatial+Modeling" />
+</p>
 
 ---
 
 <!-- ========================================================= -->
-
 <!--                     GITHUB STATS SLIDE                    -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">📊 GitHub Stats & Analytics</h2>
@@ -140,9 +92,7 @@ Structural prediction & geospatial modeling.
 ---
 
 <!-- ========================================================= -->
-
 <!--                    CONTACT SLIDE                          -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">🌎 Connect With Me</h2>
@@ -156,9 +106,7 @@ Structural prediction & geospatial modeling.
 ---
 
 <!-- ========================================================= -->
-
 <!--                      VISITORS SLIDE                       -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">👀 Profile Visitors</h2>
@@ -167,24 +115,14 @@ Structural prediction & geospatial modeling.
   <img src="https://komarev.com/ghpvc/?username=Eric428-a&label=Profile+Views&color=blueviolet&style=for-the-badge&abbreviated=true" />
 </p>
 
-<p align="center"><b>1,500+ views</b></p>
-
 ---
 
 <!-- ========================================================= -->
-
 <!--                     FUN FACTS SLIDE                       -->
-
 <!-- ========================================================= -->
 
 <h2 align="center">🔥 Fun Facts</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=FF6B00&lines=I+build+AI+agents+for+fun;FastAPI+is+my+comfort+zone;5+features+per+cup+of+tea+%F0%9F%92%A8🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=FF6B00&lines=Slide+Fun+Fact+1;Slide+Fun+Fact+2;Slide+Fun+Fact+3" />
 </p>
-
-* I build AI agents like weekend projects 😎
-* FastAPI is home
-* My speed? **5 features per cup of tea** 💨🔥
-
----
