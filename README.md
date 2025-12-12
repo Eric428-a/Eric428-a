@@ -61,8 +61,8 @@
 </p>
 
 **Repos:**  
-- [PYNYB UPLOADS](https://github.com/Eric428-a/Learning-Management-System-files-via-upload-)  
-- [DEPLOYED WEB SERVICE](https://github.com/Eric428-a/Learning-Management-System-Model-Deployment)
+- [.PYNB FILES UPLOADS](https://github.com/Eric428-a/Learning-Management-System-files-via-upload-)  
+- [SAMPLE DEPLOYED WEB SERVICES](https://github.com/Eric428-a/Learning-Management-System-Model-Deployment)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=FF5A00&lines=GAN-Based+Fraud+Detection;MLflow+%26+Anomaly+Detection" />
@@ -112,8 +112,9 @@
 <h2 align="center">👀 Profile Visitors</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eric428-a&label=Profile+Views&color=blueviolet&style=for-the-badge&abbreviated=true" />
+  <img src="https://img.shields.io/badge/Profile%20Views-2,500%2B-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 ---
 
