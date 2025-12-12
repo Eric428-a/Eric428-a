@@ -1,57 +1,108 @@
-# Hi, I’m Eric Mwaniki 👋
-**A Machine Learning Engineering Developer at Igniteus**
+# ✨ **HI, I'M ERIC MWANIKI 👋**
 
-![Slide Banner 1](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-![Slide Banner 2](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
-![Slide Banner 3](https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif)
-
----
-
-## 🧰 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![AI](https://img.shields.io/badge/AI-FFC107?style=for-the-badge&logo=ai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&color=00E5FF&center=true&vCenter=true&width=800&lines=MACHINE+LEARNING+ENGINEER;FULL+STACK+DEVELOPER;AGENT+AI+ENGINEER;AI+SYSTEMS+ARCHITECT" />
+</p>
 
 ---
 
-## 🚀 Projects & Highlights
-### Learning Management System
-![LMS Banner](https://media.giphy.com/media/3orieXRB0H3sxHf8vS/giphy.gif)  
-Python & Jupyter | AI-driven content management | Optimized for education
+## 🧑‍💻 **About Me**
 
-### DS-ML-Deploying
-![DS Banner](https://media.giphy.com/media/l0HlK9tYhZl3uB1sI/giphy.gif)  
-HTML & AI Models | Deployment pipelines | Model testing
+I’m **Eric Mwaniki**, a Machine Learning Engineer, Full-Stack Developer, and Agent AI Engineer building:
 
-### Machine Learning in Civil Engineering
-![Civil ML](https://media.giphy.com/media/xUPGcdhiYkizlWliLe/giphy.gif)  
-Jupyter Notebook | Structural data analysis | Predictive modeling
+* Real-time **AI Voice Agents**
+* Production AI systems (ML/DL, GANs, predictive models)
+* FastAPI + React full-stack applications
+* Enterprise backend architecture & automation pipelines
+
+I build clean, fast, production-ready software.
 
 ---
 
-## 📊 GitHub Stats
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eric428-a&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric428-a&layout=compact&theme=radical)
+# 🧰 **Tech Stack**
+
+### **Languages**
+
+* Python
+* JavaScript
+* TypeScript
+
+### **Backend**
+
+* FastAPI
+* Node.js
+* PostgreSQL / MongoDB
+* Docker
+
+### **Frontend**
+
+* React
+* Vite
+
+### **ML / AI**
+
+* PyTorch
+* TensorFlow
+* Scikit-Learn
+* GANs · NLP · Forecasting · Agents
 
 ---
 
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-m-1325902b2)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4081?style=for-the-badge&logo=website&logoColor=white)](https://eric.m.m.github.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ericmwaniki2004@gmail.com)
+# 🚀 **Featured Projects**
+
+## 🧠 **AI Voice Agent Infrastructure (2025)**
+
+**FastAPI · Azure · WebRTC · Realtime Pipelines**
+Enterprise-grade voice agent system for bookings, support & workflow automation.
 
 ---
 
-## 🌟 Visitors
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Eric428-a)
+## 📚 **AI-Powered Learning Management System**
+
+AI content generation · Recommendation engine · FastAPI backend · React UI
+![LMS](https://media.giphy.com/media/3orieXRB0H3sxHf8vS/giphy.gif)
 
 ---
 
-## 🔥 Fun Facts
-- I love creating **ML & AI solutions** that optimize business workflows.  
-- Always exploring **new datasets and modeling techniques**.  
-- Obsessed with **visualizations & data storytelling**.
+## 🔍 **GAN-Based Fraud Detection System**
+
+GAN anomaly detection · MLflow · Model pipelines
+![Fraud](https://media.giphy.com/media/l0HlK9tYhZl3uB1sI/giphy.gif)
 
 ---
+
+## 🏗 **Machine Learning in Civil Engineering**
+
+Structural prediction models & geospatial analysis
+![Civil](https://media.giphy.com/media/xUPGcdhiYkizlWliLe/giphy.gif)
+
+---
+
+# 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eric428-a&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric428-a&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+# 🌎 **Connect With Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/eric-m-1325902b2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge\&logo=react)](https://eric.m.m.github.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail)](mailto:ericmwaniki2004@gmail.com)
+
+---
+
+# 👀 **Visitors**
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Eric428-a)
+
+---
+
+# 🔥 **Fun Facts**
+
+* I build AI agents like side projects 😎
+* FastAPI is my comfort zone
+* I ship extremely fast — "5 features per cup of tea" mode activated
