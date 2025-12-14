@@ -140,3 +140,50 @@
 <img src="https://img.shields.io/badge/🤖%20Automation%20First-yellow?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/☕%205%20Features%20per%20Tea-brown?style=for-the-badge"/>
 </p>
+
+---
+
+<!-- ========================================================= -->
+<!--                    HOW I THINK SLIDE                     -->
+<!-- ========================================================= -->
+
+<h2 align="center">🧠 How I Think</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Design%20for%20Scale-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Latency%20Before%20Luxury-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Production%20First-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation%20Over%20Manual-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Observability%20Matters-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ship%20%E2%86%92%20Measure%20%E2%86%92%20Iterate-green?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                  WHAT I BUILD SLIDE                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 What I Build</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Realtime%20AI%20Voice%20Systems-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Autonomous%20AI%20Agents-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scalable%20ML%20Pipelines-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend%20Systems%20That%20Last-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/End--to--End%20AI%20Products-orange?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--                  SIGNATURE LINE SLIDE                    -->
+<!-- ========================================================= -->
+
+<h2 align="center">⚡ Engineering Signature</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Clean%20Code%20%E2%9C%94-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Production%20Ready%20%E2%9C%94-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scales%20Under%20Load%20%E2%9C%94-green?style=for-the-badge"/>
+</p>
