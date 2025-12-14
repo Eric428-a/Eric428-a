@@ -205,3 +205,30 @@
 <img src="https://img.shields.io/badge/Production%20Ready%20%E2%9C%94-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Scales%20Under%20Load%20%E2%9C%94-green?style=for-the-badge"/>
 </p>
+
+---
+
+<!-- ========================================================= -->
+<!--                 ENGINEER'S MANIFESTO                     -->
+<!-- ========================================================= -->
+
+<h2 align="center">🧠 Engineer’s Manifesto</h2>
+
+<table align="center">
+<tr>
+<td>
+
+• I treat **Machine Learning as an engineering discipline**, not experiments  
+• I build **prediction, classification, and forecasting systems** that survive production  
+• I use **GANs** to generate data, uncover anomalies, and stress-test models  
+• I design for **latency, scale, and failure** before accuracy  
+• I believe **logs > guesses**, metrics > opinions  
+• I ship **working systems**, not demo notebooks  
+• I prefer **simple models deployed well** over complex models deployed badly  
+• I optimize **data pipelines** before model architectures  
+• I design AI agents that **act, decide, and adapt**  
+• If it can’t scale, **it doesn’t ship**
+
+</td>
+</tr>
+</table>
