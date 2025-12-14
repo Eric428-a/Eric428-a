@@ -40,29 +40,30 @@
 
 <!-- Top Left -->
 <a href="https://one-1-1-predicting-taxi-fare-price.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Taxi-Fare-ff0033?style=for-the-badge" alt="Taxi Fare Prediction" />
+  <img src="https://img.shields.io/badge/⚡Taxi-Fare-ff0033?style=for-the-badge&logoColor=ffffff" alt="Taxi Fare Prediction" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing -->
 
 <!-- Top Right -->
 <a href="https://one-1-2-house-price-prediction-yja0.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/House-Price-00c853?style=for-the-badge" alt="House Price Prediction" />
+  <img src="https://img.shields.io/badge/🏠House-Price-00c853?style=for-the-badge&logoColor=ffffff" alt="House Price Prediction" />
 </a>
 
 <br><br> <!-- vertical spacing -->
 
 <!-- Bottom Left -->
 <a href="https://one-1-3-credit-scoring.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Credit-Scoring-7c3aed?style=for-the-badge" alt="Credit Scoring" />
+  <img src="https://img.shields.io/badge/💳Credit-Scoring-7c3aed?style=for-the-badge&logoColor=ffffff" alt="Credit Scoring" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing -->
 
 <!-- Bottom Right -->
 <a href="https://two-6-1-land-use-classification.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Land-Use-2962ff?style=for-the-badge" alt="Land Use Classification" />
+  <img src="https://img.shields.io/badge/🌍Land-Use-2962ff?style=for-the-badge&logoColor=ffffff" alt="Land Use Classification" />
 </a>
 
 </p>
+
 
 ---
 
