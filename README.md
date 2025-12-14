@@ -129,8 +129,14 @@
 <h2 align="center">🔥 Fun Facts</h2>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=1100&color=FF6B00
-    &lines=I+build+AI+agents+that+run+in+production;FastAPI+is+my+default+backend+weapon;Realtime+AI+systems+over+offline+notebooks;If+it+can%27t+scale%2C+it+doesn%27t+ship;GANs+are+for+more+than+just+images;I+optimize+latency+before+adding+features;WebRTC+beats+polling+every+time;Models+are+easy+deployment+is+hard;I+trust+logs+more+than+assumptions;Automation+is+the+real+superpower" 
-  />
+<img src="https://img.shields.io/badge/⚡%20Builds%20Production%20AI%20Agents-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀%20FastAPI%20is%20Home-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎧%20Realtime%20Voice%20AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠%20GANs%20%7C%20Anomaly%20Detection-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏗%20ML%20%2B%20Civil%20Engineering-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⏱%20Latency%20Obsessed-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📦%20Production%20%3E%20Demos-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔍%20Logs%20Over%20Guessing-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖%20Automation%20First-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☕%205%20Features%20per%20Tea-brown?style=for-the-badge"/>
 </p>
