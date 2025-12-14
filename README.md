@@ -38,11 +38,11 @@
 
 | 🚕 Predicting Taxi Fare Prices | 🏠 House Price Prediction |
 |-------------------------------|--------------------------|
-| [![Taxi Fare](https://img.shields.io/badge/Taxi-Fare-ff0033?style=for-the-badge)](https://one-1-1-predicting-taxi-fare-price.onrender.com/) | [![House Price](https://img.shields.io/badge/House-Price-00c853?style=for-the-badge)](https://one-1-2-house-price-prediction-yja0.onrender.com/) |
+| [![Taxi Fare](https://img.shields.io/badge/Taxi-Fare-Prediction-ff0033?style=for-the-badge)](https://one-1-1-predicting-taxi-fare-price.onrender.com/) <br> *Regression / Forecasting* | [![House Price](https://img.shields.io/badge/House-Price-Prediction-00c853?style=for-the-badge)](https://one-1-2-house-price-prediction-yja0.onrender.com/) <br> *Regression / ML in Real Estate* |
 
 | 💳 Credit Scoring System | 🌍 Land Use Classification |
 |--------------------------|----------------------------|
-| [![Credit Scoring](https://img.shields.io/badge/Credit-Scoring-7c3aed?style=for-the-badge)](https://one-1-3-credit-scoring.onrender.com/) | [![Land Use](https://img.shields.io/badge/Land-Use-2962ff?style=for-the-badge)](https://two-6-1-land-use-classification.onrender.com/) |
+| [![Credit Scoring](https://img.shields.io/badge/Credit-Scoring-Classification-7c3aed?style=for-the-badge)](https://one-1-3-credit-scoring.onrender.com/) <br> *Classification / Risk Scoring* | [![Land Use](https://img.shields.io/badge/Land-Use-Classification-2962ff?style=for-the-badge)](https://two-6-1-land-use-classification.onrender.com/) <br> *Image Classification / GIS ML* |
 
 ---
 
