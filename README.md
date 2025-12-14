@@ -34,12 +34,6 @@
 
 ---
 
-<!-- ========================================================= -->
-<!--                LIVE ML SYSTEMS SHOWCASE                  -->
-<!-- ========================================================= -->
-
-<h2 align="center">🚀 Live Machine Learning Systems</h2>
-
 <table align="center" width="100%">
   <tr>
     <!-- TOP LEFT -->
@@ -79,8 +73,6 @@
     </td>
   </tr>
 
-  <tr><td colspan="2" height="24"></td></tr>
-
   <tr>
     <!-- BOTTOM LEFT -->
     <td align="center">
@@ -119,7 +111,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
