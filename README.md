@@ -144,34 +144,52 @@
 ---
 
 <!-- ========================================================= -->
-<!--                    HOW I THINK SLIDE                     -->
+<!--                HOW I BUILD ML SYSTEMS                    -->
 <!-- ========================================================= -->
 
-<h2 align="center">🧠 How I Think</h2>
+<h2 align="center">🧬 How I Build ML Systems</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Design%20for%20Scale-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Latency%20Before%20Luxury-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Production%20First-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Automation%20Over%20Manual-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Observability%20Matters-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ship%20%E2%86%92%20Measure%20%E2%86%92%20Iterate-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GANs%20for%20Data%20Generation-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anomaly%20Detection-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prediction%20%26%20Forecasting-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Classification%20Models-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature%20Engineering-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Evaluation%20%26%20Tuning-red?style=for-the-badge"/>
 </p>
 
 ---
 
 <!-- ========================================================= -->
-<!--                  WHAT I BUILD SLIDE                      -->
+<!--                 ML PRODUCTION DNA                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">🚀 What I Build</h2>
+<h2 align="center">⚙️ ML Production DNA</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Realtime%20AI%20Voice%20Systems-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Autonomous%20AI%20Agents-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scalable%20ML%20Pipelines-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend%20Systems%20That%20Last-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/End--to--End%20AI%20Products-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Pipelines-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model%20Versioning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Monitoring%20%26%20Drift%20Detection-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Realtime%20Inference-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Batch%20%26%20Streaming%20ML-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Explainability%20(XAI)-yellow?style=for-the-badge"/>
+</p>
+
+---
+
+<!-- ========================================================= -->
+<!--               PROBLEMS I SOLVE WITH ML                   -->
+<!-- ========================================================= -->
+
+<h2 align="center">🔮 Problems I Solve With ML</h2>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Fraud%20Detection-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Risk%20Scoring-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time--Series%20Forecasting-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Customer%20Behavior%20Prediction-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anomaly%20Detection-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Synthetic%20Data%20Generation-purple?style=for-the-badge"/>
 </p>
 
 ---
