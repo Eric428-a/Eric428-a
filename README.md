@@ -35,6 +35,95 @@
 ---
 
 <!-- ========================================================= -->
+<!--                LIVE ML SYSTEMS SHOWCASE                  -->
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 Live Machine Learning Systems</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <!-- TOP LEFT -->
+    <td align="center">
+      <a href="https://one-1-1-predicting-taxi-fare-price.onrender.com/" target="_blank"
+         style="
+           display:inline-block;
+           padding:22px 28px;
+           font-size:20px;
+           font-weight:700;
+           text-decoration:none;
+           color:#ffffff;
+           background:#ff0033;
+           border-radius:14px;
+           box-shadow:0 0 18px rgba(255,0,51,0.9);
+         ">
+        🚕 Predicting Taxi Fare Prices
+      </a>
+    </td>
+
+    <!-- TOP RIGHT -->
+    <td align="center">
+      <a href="https://one-1-2-house-price-prediction-yja0.onrender.com/" target="_blank"
+         style="
+           display:inline-block;
+           padding:22px 28px;
+           font-size:20px;
+           font-weight:700;
+           text-decoration:none;
+           color:#ffffff;
+           background:#00c853;
+           border-radius:14px;
+           box-shadow:0 0 18px rgba(0,200,83,0.9);
+         ">
+        🏠 House Price Prediction
+      </a>
+    </td>
+  </tr>
+
+  <tr><td colspan="2" height="24"></td></tr>
+
+  <tr>
+    <!-- BOTTOM LEFT -->
+    <td align="center">
+      <a href="https://one-1-3-credit-scoring.onrender.com/" target="_blank"
+         style="
+           display:inline-block;
+           padding:22px 28px;
+           font-size:20px;
+           font-weight:700;
+           text-decoration:none;
+           color:#ffffff;
+           background:#7c3aed;
+           border-radius:14px;
+           box-shadow:0 0 18px rgba(124,58,237,0.9);
+         ">
+        💳 Credit Scoring System
+      </a>
+    </td>
+
+    <!-- BOTTOM RIGHT -->
+    <td align="center">
+      <a href="https://two-6-1-land-use-classification.onrender.com/" target="_blank"
+         style="
+           display:inline-block;
+           padding:22px 28px;
+           font-size:20px;
+           font-weight:700;
+           text-decoration:none;
+           color:#ffffff;
+           background:#2962ff;
+           border-radius:14px;
+           box-shadow:0 0 18px rgba(41,98,255,0.9);
+         ">
+        🌍 Land Use Classification
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+<!-- ========================================================= -->
 <!--                       TECH STACK SLIDES                  -->
 <!-- ========================================================= -->
 
