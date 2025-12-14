@@ -129,5 +129,8 @@
 <h2 align="center">🔥 Fun Facts</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=900&color=FF6B00&lines=Slide+Fun+Fact+1;Slide+Fun+Fact+2;Slide+Fun+Fact+3" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=1100&color=FF6B00
+    &lines=I+build+AI+agents+that+run+in+production;FastAPI+is+my+default+backend+weapon;Realtime+AI+systems+over+offline+notebooks;If+it+can%27t+scale%2C+it+doesn%27t+ship;GANs+are+for+more+than+just+images;I+optimize+latency+before+adding+features;WebRTC+beats+polling+every+time;Models+are+easy+deployment+is+hard;I+trust+logs+more+than+assumptions;Automation+is+the+real+superpower" 
+  />
 </p>
