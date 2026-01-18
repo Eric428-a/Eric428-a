@@ -1,7 +1,11 @@
 # Eric Mwaniki — Animated Intro
 
+<!-- ========================================================= -->
+<!--                       VIDEO-SCREEN GIF                    -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=22c55e&center=true&vCenter=true&width=600&lines=I+am+Eric+Mwaniki.;Machine+Learning+Engineer,+Full-Stack+Developer,+AI+Agent+Engineer.;I+build+intelligence+into+code,+real-time+voice+that+speaks,+and+systems+that+scale+beyond+the+screen.;I+turn+data+into+insight,+numbers+into+predictions,+predictions+into+action.;I+craft+pipelines,+train+models,+deploy+and+scale,+monitor+and+optimize.;I+build+systems+that+speak,+listen,+understand,+act,+decide+and+adapt.;GANs,+Anomaly+Detection,+Predictions,+Forecasts;+Features+engineered,+models+tuned,+pipelines+deployed;+Realtime+inference,+batch+streaming;+Every+system+designed+to+scale.;Data+pipelines,+model+versioning,+Monitoring,+drift+detection,+Scalable+low-latency+design,+Explainable+AI,+production-ready+deployments." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=22c55e&center=true&vCenter=true&width=600&lines=I+am+Eric+Mwaniki.;Machine+Learning+Engineer,+Full-Stack+Developer,+AI+Agent+Engineer.;I+build+intelligence+into+code,+real-time+voice+that+speaks,+and+systems+that+scale+beyond+the+screen.;I+turn+data+into+insight,+numbers+into+predictions,+predictions+into+action.;I+craft+pipelines,+train+models,+deploy+and+scale,+monitor+and+optimize.;I+build+systems+that+speak,+listen,+understand,+act,+decide+and+adapt.;GANs,+Anomaly+Detection,+Predictions,+Forecasts;+Features+engineered,+models+tuned,+pipelines+deployed;+Realtime+inference,+batch+streaming;+Every+system+designed+to+scale.;Data+pipelines,+model+versioning,+Monitoring,+drift+detection,+Scalable+low-latency+design,+Explainable+AI,+production-ready+deployments." />
 </p>
 
 ---
@@ -15,6 +19,13 @@
   <a href="https://www.linkedin.com/in/eric-m-1325902b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn — Professional"/>
   </a>
+</p>
+
+---
+
+## Contact Me
+
+<p align="center">
   <a href="https://eric428-a.github.io/contact-form/" target="_blank">
     <img src="https://img.shields.io/badge/Contact-Form-22c55e?style=for-the-badge&logo=react&logoColor=ffffff" alt="Contact Form"/>
   </a>
