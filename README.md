@@ -1,5 +1,5 @@
 <!-- ========================================================= -->
-<!--                    MAIN TITLE SLIDE                       -->
+<!--                        MAIN TITLE SLIDE                  -->
 <!-- ========================================================= -->
 
 <h1 align="center">✨ HI, I'M ERIC MWANIKI 👋</h1>
@@ -15,7 +15,7 @@
 ---
 
 <!-- ========================================================= -->
-<!--                       ABOUT ME SLIDES                     -->
+<!--                        ABOUT ME SLIDE                    -->
 <!-- ========================================================= -->
 
 <h2 align="center">🧑‍💻 About Me</h2>
@@ -34,41 +34,34 @@
 
 ---
 
-## 🚀 Live Machine Learning Systems
+<!-- ========================================================= -->
+<!--                  LIVE MACHINE LEARNING SYSTEMS           -->
+<!-- ========================================================= -->
+
+<h2 align="center">🚀 Live ML Systems</h2>
 
 <p align="center">
-
-<!-- Top Left -->
-<a href="https://one-1-1-predicting-taxi-fare-price.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/⚡Taxi-Fare-ff0033?style=for-the-badge&logoColor=ffffff" alt="Taxi Fare Prediction" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing -->
-
-<!-- Top Right -->
-<a href="https://one-1-2-house-price-prediction-yja0.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🏠House-Price-00c853?style=for-the-badge&logoColor=ffffff" alt="House Price Prediction" />
-</a>
-
-<br><br> <!-- vertical spacing -->
-
-<!-- Bottom Left -->
-<a href="https://one-1-3-credit-scoring.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/💳Credit-Scoring-7c3aed?style=for-the-badge&logoColor=ffffff" alt="Credit Scoring" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- spacing -->
-
-<!-- Bottom Right -->
-<a href="https://two-6-1-land-use-classification.onrender.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🌍Land-Use-2962ff?style=for-the-badge&logoColor=ffffff" alt="Land Use Classification" />
-</a>
-
+  <a href="https://one-1-1-predicting-taxi-fare-price.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/⚡Taxi-Fare-ff0033?style=for-the-badge&logoColor=ffffff" alt="Taxi Fare Prediction" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://one-1-2-house-price-prediction-yja0.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🏠House-Price-00c853?style=for-the-badge&logoColor=ffffff" alt="House Price Prediction" />
+  </a>
+  <br><br>
+  <a href="https://one-1-3-credit-scoring.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/💳Credit-Scoring-7c3aed?style=for-the-badge&logoColor=ffffff" alt="Credit Scoring" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://two-6-1-land-use-classification.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌍Land-Use-2962ff?style=for-the-badge&logoColor=ffffff" alt="Land Use Classification" />
+  </a>
 </p>
-
 
 ---
 
 <!-- ========================================================= -->
-<!--                       TECH STACK SLIDES                  -->
+<!--                        TECH STACK SLIDE                  -->
 <!-- ========================================================= -->
 
 <h2 align="center">🧰 Tech Stack</h2>
@@ -80,7 +73,7 @@
 ---
 
 <!-- ========================================================= -->
-<!--                    FEATURED PROJECT SLIDES                -->
+<!--                    FEATURED PROJECTS SLIDE               -->
 <!-- ========================================================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -111,18 +104,12 @@
 <!--                     GITHUB STATS SLIDE                    -->
 <!-- ========================================================= -->
 
-<h2 align="center">📊 GitHub Stats & Analytics</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eric428-a&theme=tokyonight&hide_border=true&stroke=FF00E5&ring=00E5FF&fire=FF6B00" width="600" />
-
   <br><br>
-
-  <!-- GitHub Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Eric428-a&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="450" />
-  
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric428-a&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="450" />
 </p>
 
@@ -138,12 +125,14 @@
   <a href="mailto:ericmwaniki2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
   <a href="https://www.linkedin.com/in/eric-m-1325902b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/Eric428-a"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=react"/></a>
+  <a href="https://eric428-a.github.io/contact-form/"><img src="https://img.shields.io/badge/Contact-Form-22c55e?style=for-the-badge&logo=react"/></a>
+  <a href="https://calendly.com/ericmwaniki/evening-call"><img src="https://img.shields.io/badge/Book-Call-00bcd4?style=for-the-badge&logo=calendly"/></a>
 </p>
 
 ---
 
 <!-- ========================================================= -->
-<!--                      VISITORS SLIDE                       -->
+<!--                    VISITORS SLIDE                          -->
 <!-- ========================================================= -->
 
 <h2 align="center">👀 Profile Visitors</h2>
@@ -151,7 +140,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-2,500%2B-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
 
 ---
 
@@ -162,33 +150,33 @@
 <h2 align="center">🔥 Fun Facts</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/⚡%20Builds%20Production%20AI%20Agents-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🚀%20FastAPI%20is%20Home-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🎧%20Realtime%20Voice%20AI-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🧠%20GANs%20%7C%20Anomaly%20Detection-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🏗%20ML%20%2B%20Civil%20Engineering-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⏱%20Latency%20Obsessed-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📦%20Production%20%3E%20Demos-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔍%20Logs%20Over%20Guessing-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖%20Automation%20First-yellow?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/☕%205%20Features%20per%20Tea-brown?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡Builds+Production+AI+Agents-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀FastAPI+is+Home-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎧Realtime+Voice+AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧠GANs+%7C+Anomaly+Detection-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🏗ML+%2B+Civil+Engineering-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⏱Latency+Obsessed-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📦Production+%3E+Demos-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🔍Logs+Over+Guessing-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖Automation+First-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/☕5+Features+per+Tea-brown?style=for-the-badge"/>
 </p>
 
 ---
 
 <!-- ========================================================= -->
-<!--                HOW I BUILD ML SYSTEMS                    -->
+<!--                  HOW I BUILD ML SYSTEMS                  -->
 <!-- ========================================================= -->
 
 <h2 align="center">🧬 How I Build ML Systems</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/GANs%20for%20Data%20Generation-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Anomaly%20Detection-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prediction%20%26%20Forecasting-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Classification%20Models-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Feature%20Engineering-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model%20Evaluation%20%26%20Tuning-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GANs+for+Data+Generation-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anomaly+Detection-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prediction+%26+Forecasting-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Classification+Models-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Feature+Engineering-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model+Evaluation+%26+Tuning-red?style=for-the-badge"/>
 </p>
 
 ---
@@ -200,12 +188,12 @@
 <h2 align="center">⚙️ ML Production DNA</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data%20Pipelines-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Model%20Versioning-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Monitoring%20%26%20Drift%20Detection-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Realtime%20Inference-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Batch%20%26%20Streaming%20ML-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Explainability%20(XAI)-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data+Pipelines-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model+Versioning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Monitoring+%26+Drift+Detection-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Realtime+Inference-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Batch+%26+Streaming+ML-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Explainability+%28XAI%29-yellow?style=for-the-badge"/>
 </p>
 
 ---
@@ -217,12 +205,12 @@
 <h2 align="center">🔮 Problems I Solve With ML</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Fraud%20Detection-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Risk%20Scoring-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Time--Series%20Forecasting-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Customer%20Behavior%20Prediction-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Anomaly%20Detection-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Synthetic%20Data%20Generation-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fraud+Detection-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Risk+Scoring-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Time--Series+Forecasting-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Customer+Behavior+Prediction-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Anomaly+Detection-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Synthetic+Data+Generation-purple?style=for-the-badge"/>
 </p>
 
 ---
@@ -234,9 +222,9 @@
 <h2 align="center">⚡ Engineering Signature</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Clean%20Code%20%E2%9C%94-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Production%20Ready%20%E2%9C%94-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scales%20Under%20Load%20%E2%9C%94-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean+Code+%E2%9C%94-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Production+Ready+%E2%9C%94-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scales+Under+Load+%E2%9C%94-green?style=for-the-badge"/>
 </p>
 
 ---
