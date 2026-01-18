@@ -2,14 +2,13 @@
 
 ## About Me
 
-I am Eric Mwaniki  
-Machine Learning Engineer  
-Full-Stack Developer  
-AI Agent Engineer  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00AEEF&center=true&vCenter=true&width=900&lines=I+am+Eric+Mwaniki.;Machine+Learning+Engineer.;Full-Stack+Developer.;AI+Agent+Engineer." />
+</p>
 
-I build intelligence into code,  
-real-time voice that speaks,  
-and systems that scale beyond the screen.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00AEEF&center=true&vCenter=true&width=900&lines=I+build+intelligence+into+code.;Real-time+voice+that+speaks.;Systems+that+scale+beyond+the+screen." />
+</p>
 
 ---
 
@@ -30,20 +29,21 @@ and systems that scale beyond the screen.
   </a>
 </p>
 
-I turn data into insight,  
-numbers into predictions,  
-and predictions into action.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6B00&center=true&vCenter=true&width=900&lines=I+turn+data+into+insight.;Numbers+into+predictions.;Predictions+into+action." />
+</p>
 
 ---
 
 ## Tech Stack
 
-Python, TypeScript, JavaScript, FastAPI, Node.js, Docker, PostgreSQL, MongoDB, WebRTC, React, Vite, PyTorch, TensorFlow, Scikit-Learn, GANs, NLP, AI Agents, Forecasting.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=22c55e&center=true&vCenter=true&width=900&lines=Python+%7C+TypeScript+%7C+JavaScript.;FastAPI+%7C+Node.js+%7C+Docker.;PostgreSQL+%7C+MongoDB+%7C+WebRTC.;React+%7C+Vite+%7C+PyTorch+%7C+TensorFlow.;GANs+%7C+NLP+%7C+AI+Agents+%7C+Forecasting." />
+</p>
 
-I craft pipelines,  
-I train models,  
-I deploy, I scale,  
-I monitor, I optimize.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=22c55e&center=true&vCenter=true&width=900&lines=I+craft+pipelines.;I+train+models.;I+deploy+and+scale.;I+monitor+and+optimize." />
+</p>
 
 ---
 
@@ -61,9 +61,9 @@ I monitor, I optimize.
   </a>
 </p>
 
-I build systems that speak,  
-that listen, that understand,  
-that act, decide, and adapt.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6B00&center=true&vCenter=true&width=900&lines=I+build+systems+that+speak.;That+listen+and+understand.;That+act,+decide,+and+adapt." />
+</p>
 
 ---
 
@@ -73,7 +73,7 @@ that act, decide, and adapt.
   <a href="https://github.com/Eric428-a" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=ffffff"/>
   </a>
-  <a href="https://www.linkedin.com/in/eric-m-1325902b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2lc7%2FoMwTNCetUA1dQu8GA%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/eric-m-1325902b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
   </a>
   <a href="https://eric428-a.github.io/contact-form/" target="_blank">
@@ -87,50 +87,38 @@ that act, decide, and adapt.
   </a>
 </p>
 
-Come for a chat,  
-stay for collaboration,  
-let’s build, let’s deploy,  
-let’s innovate together.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=22c55e&center=true&vCenter=true&width=900&lines=Come+for+a+chat.;Stay+for+collaboration.;Let's+build,+let's+deploy.;Let's+innovate+together." />
+</p>
 
 ---
 
 ## How I Build ML Systems
 
-GANs, Anomaly Detection, Predictions, Forecasts,  
-Features engineered, models tuned, pipelines deployed,  
-Realtime inference, batch streaming,  
-Every system designed to scale.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6B00&center=true&vCenter=true&width=900&lines=GANs,+Anomaly+Detection,+Predictions,+Forecasts.;Features+engineered,+models+tuned,+pipelines+deployed.;Realtime+inference,+batch+streaming.;Every+system+designed+to+scale." />
+</p>
 
 ---
 
 ## Production DNA
 
-Data pipelines, model versioning,  
-Monitoring, drift detection,  
-Scalable, low-latency design,  
-Explainable AI, production-ready deployments.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=22c55e&center=true&vCenter=true&width=900&lines=Data+pipelines,+model+versioning.;Monitoring,+drift+detection.;Scalable,+low-latency+design.;Explainable+AI,+production-ready+deployments." />
+</p>
 
 ---
 
 ## Problems I Solve With ML
 
-Fraud detection, risk scoring,  
-Time-series forecasting,  
-Customer behavior prediction,  
-Anomaly detection, synthetic data generation.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=FF6B00&center=true&vCenter=true&width=900&lines=Fraud+detection,+risk+scoring.;Time-series+forecasting.;Customer+behavior+prediction.;Anomaly+detection,+synthetic+data+generation." />
+</p>
 
 ---
 
 ## Philosophy
 
-Machine learning is **engineering**,  
-not experimentation.  
-
-I build for reliability, scalability, maintainability.  
-Metrics, logs, and monitoring guide every decision.  
-I deploy working systems, not demos.  
-I prioritize simplicity over fragile complexity.  
-AI agents that act, decide, and adapt.  
-
----
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=22c55e&center=true&vCenter=true&width=900&lines=Machine+learning+is+engineering,+not+experimentation.;I+build+for+reliability,+scalability,+maintainability.;Metrics,+logs,+monitoring+guide+every+decision.;I+deploy+working+systems,+not+demos.;I+prioritize+simplicity+over+fragile+complexity.;AI+agents+that+act,+decide,+and+adapt." />
+</p>
