@@ -1,4 +1,4 @@
-# Eric Mwaniki — Video-Screen Intro
+# ERIC MWANIKI - Data Scientist | Machine Learning Engineer | AI Engineer | Agentic & Full-Stack Systems
 
 <!-- ========================================================= -->
 <!--                    TYPEWRITER STYLE GIF                   -->
