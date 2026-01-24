@@ -1,4 +1,4 @@
-# ERIC MWANIKI - Data Scientist | Machine Learning Engineer | AI Engineer | Agentic & Full-Stack Systems
+# *ERIC MWANIKI - Data Scientist | Machine Learning Engineer | AI Engineer | Agentic & Full-Stack Systems*
 
 <!-- ========================================================= -->
 <!--                    TYPEWRITER STYLE GIF                   -->
