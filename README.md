@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&color=22c55e&center=true&vCenter=true&width=600&lines=I+am+Eric+Mwaniki.;Machine+Learning+Engineer,+Full-Stack+Developer,+AI+Agent+Engineer.;I+build+intelligence+into+code,+real-time+voice+that+speaks,+and+systems+that+scale+beyond+the+screen.;I+turn+data+into+insight,+numbers+into+predictions,+predictions+into+action.;I+craft+pipelines,+train+models,+deploy+and+scale,+monitor+and+optimize.;I+build+systems+that+speak,+listen,+understand,+act,+decide+and+adapt.;GANs,+Anomaly+Detection,+Predictions,+Forecasts;+Features+engineered,+models+tuned,+pipelines+deployed;+Realtime+inference,+batch+streaming;+Every+system+designed+to+scale.;Data+pipelines,+model+versioning,+Monitoring,+drift+detection,+Scalable+low-latency+design,+Explainable+AI,+production-ready+deployments." />
 </p>
 
-*Scroll up to review previous lines as they type.*
+*This is me.*
 
 ---
 
