@@ -1,6 +1,6 @@
 # ERIC MWANIKI
 
-### Data Scientist | Machine Learning Engineer | AI Engineer | Agentic & Full-Stack Systems
+### Software Engineer | Machine Learning Engineer | AI Engineer | Agentic & Full-Stack Systems
 
 ---
 
@@ -23,6 +23,14 @@ I specialize in building systems that:
 * Design autonomous AI agents capable of reasoning and decision-making
 
 My approach combines strong engineering discipline with applied research thinking — ensuring systems are not only intelligent, but reliable, scalable, and maintainable.
+
+---
+
+## Current Role
+
+**Software Engineer & Machine Learning Engineer — Genie AI**
+
+Currently contributing to the design and development of advanced AI systems, including agentic architectures, production-grade ML pipelines, and scalable backend infrastructures. My work focuses on building intelligent systems that integrate seamlessly into real-world applications while maintaining performance, reliability, and scalability.
 
 ---
 
