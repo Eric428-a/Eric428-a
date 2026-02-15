@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/eric-m-1325902b2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
   </a>
-  <a href="mailto:ericmwaniki2004@gmail.com" target="_blank">
+  <a href="mailto:ericmwaniki2004@gmail.com?subject=Hello%20Eric" target="_blank">
     <img src="https://img.shields.io/badge/Email-Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
   </a>
   <a href="https://calendly.com/ericmwaniki2004/new-meeting" target="_blank">
