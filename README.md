@@ -1,6 +1,6 @@
 # ERIC MWANIKI
 
-### Software Engineer | Machine Learning Engineer | AI Engineer | Agentic & Full-Stack Systems
+### Data Scientist | Machine Learning Engineer | AI Engineer | Agentic & Full-Stack Systems
 
 ---
 
@@ -16,13 +16,16 @@
   <a href="mailto:ericmwaniki2004@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Direct-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
   </a>
+  <a href="https://calendly.com/ericmwaniki2004/new-meeting" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule-Call-00bcd4?style=for-the-badge&logo=calendly&logoColor=ffffff"/>
+  </a>
 </p>
 
 ---
 
 ## Professional Summary
 
-*Software Engineer and Machine Learning Engineer at Genie AI, specializing in building scalable, production-grade intelligent systems. I design and deploy AI architectures that integrate seamlessly into real-world applications, focusing on reliability, performance, and long-term maintainability.*
+*Data Scientist and Machine Learning Engineer at Genie AI, specializing in designing, building, and deploying production-grade intelligent systems. I focus on transforming data into actionable insights and scalable AI solutions.*
 
 ---
 
@@ -36,15 +39,15 @@
 
 *• End-to-End ML Pipelines & MLOps*
 
-*• Scalable Backend & API Development*
+*• Data Science & Predictive Analytics*
 
-*• Cloud-Native & Containerized Deployments*
+*• Scalable Backend & Cloud Deployments*
 
 ---
 
 ## Engineering Approach
 
-*I build systems with production in mind from day one — emphasizing scalability, observability, performance optimization, and clean architecture. My work bridges applied AI research and robust software engineering to deliver intelligent systems that operate reliably at scale.*
+*I deliver AI systems designed for reliability, performance, and scalability, integrating applied research with robust software engineering. My work emphasizes observability, optimization, and maintainable architectures.*
 
 ---
 
